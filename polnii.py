@@ -1,3 +1,3 @@
 import math
-import time #полная хуйня
-вот нашел решение поеботе
+import time #полная хуйнявот нашел решение поеботе
+import selenium
